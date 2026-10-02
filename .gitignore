@@ -1,0 +1,13 @@
+/build/
+/dist/
+/REVIEW.md
+/docs/PUBLISH_CHECKLIST.md
+*.jks
+*.keystore
+*.p12
+*.pk8
+.env*
+local.properties
+*.log
+*.apk
+*.zip
